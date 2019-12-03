@@ -5,7 +5,7 @@
 echo Which Directory you want to activate
 read DIR
 
-cd DIR
+cd $DIR
 pwd
 ls
 
